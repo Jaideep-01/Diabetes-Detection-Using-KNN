@@ -13,3 +13,9 @@ This repository contains a Python project that implements a K-Nearest Neighbors 
 
 # Project Overview
 The primary goal of this project is to develop a machine learning model using the K-Nearest Neighbors algorithm to classify individuals into two categories: those with diabetes and those without. KNN is a simple yet effective algorithm for classification tasks that makes predictions based on the similarity of data points in the feature space.
+
+# Libraries Used
+1. Pandas
+2. Matplotlib
+3. Numpy
+4. Seaborn
